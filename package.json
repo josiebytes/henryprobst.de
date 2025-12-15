@@ -2,9 +2,9 @@
   "private": true,
   "scripts": {
     "dev": "nuxt dev",
-    "build": "nuxt build && jampack ./dist",
+    "build": "nuxt build",
     "start": "nuxt preview",
-    "generate": "nuxt generate && jampack ./dist"
+    "generate": "nuxt generate"
   },
   "devDependencies": {
     "@divriots/jampack": "^0.34.0",
