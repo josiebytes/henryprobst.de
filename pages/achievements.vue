@@ -28,7 +28,7 @@ const achievements = [
 <section class="content">
   <div class="container mx-auto">
     <div class="section__header | text-center">
-      <h1 class='section__title'>My Achievements</h1>
+      <h1 class='section__title'>Erfolge</h1>
     </div>
     <ul class="pl-0 list-none">
       <li v-for="achievement in achievements" class="achievement-item mb-5">
