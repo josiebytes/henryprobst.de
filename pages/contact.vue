@@ -10,7 +10,7 @@ useHead({
 <section class="content">
   <div class="container mx-auto">
     <div class="prose">
-      <h1 class="text-center">Kontaktiere mich!</h1>
+      <h1 class="text-center">Kontakt</h1>
 
       <div class="cards max-w-[300px] mx-auto">
         <div class="contact | flex items-center gap-3 mb-5">
