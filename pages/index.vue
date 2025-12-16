@@ -19,3 +19,12 @@ useHead({
         Zu meinen Tätigkeiten gehört die Arbeit an professionellen Serversystemen wie HP ProLiant und Dell PowerEdge, sowohl bei der Fehlerdiagnose als auch bei Wartungs- und Austauschprozessen direkt beim Kunden.
       <p>
         Dabei lege ich großen Wert auf zuverlässige Lösungen, saubere Dokumentation und einen professionellen Umgang mit Kunden.
+      </p>
+      <hr>
+      <p>Auch privat bin ich mit großer Begeisterung in der IT-Welt unterwegs.
+Besonders das Arbeiten mit IT-Hardware, das Analysieren technischer Probleme und das Optimieren von Systemen gehören zu meinen Interessen.
+Diese Leidenschaft motiviert mich, mich kontinuierlich weiterzubilden und mein technisches Know-how stetig auszubauen.</p>
+    </div>
+  </div>
+</section>
+</template>
