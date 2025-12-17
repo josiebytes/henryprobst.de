@@ -24,7 +24,7 @@ const toggleDark = useToggle(isDark)
         <router-link to="/" class="decoration-none | dark:text-white!">Henry Probst</router-link>
       </h3>
       <div class='w-1/3 flex justify-end gap-3 items-center'>
-        <a href="#" class="navbar__link | p-2! md:hidden block" @click.prevent="toggleDark()">
+        <a href="#" class="navbar__link | p-0! md:hidden block" @click.prevent="toggleDark()">
           <div class="text-xl i-mdi-theme-light-dark" v-if="isDark == true"></div>
           <div class="text-xl i-mdi-theme-light-dark" v-else></div>
         </a>
