@@ -19,9 +19,7 @@ useHead({
     class="max-w-[200px] w-full h-auto rounded-lg"
   >
 </div>
-
-      <br>
-
+      
 <div class="cards max-w-[300px] mx-auto">
   <div class="contact | flex items-center justify-center mb-2">
     <div class="i-mdi-gmail w-6 h-6 bg-red-500 mr-2"></div>
