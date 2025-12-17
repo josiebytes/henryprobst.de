@@ -12,9 +12,13 @@ useHead({
     <div class="prose">
       <h1 class="text-center">Kontakt</h1>
 
-      <center>
-<img src="/assets/henryprobst.jpg" alt="Henry Probst">
-</center>
+<div class="flex justify-center my-8">
+  <img
+    src="/assets/henryprobst.jpg"
+    alt="Henry Probst"
+    class="max-w-[200px] w-full h-auto rounded-lg"
+  >
+</div>
 
       <br>
 
