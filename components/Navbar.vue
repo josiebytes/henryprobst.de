@@ -51,6 +51,7 @@ const toggleDark = useToggle(isDark)
             
         <li class="navbar__item">
           <nuxt-link to="/english" class="i-mdi-translate">English</nuxt-link>
+          <li>
           </a>
         </li>
       </ul>
